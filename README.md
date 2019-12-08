@@ -1,2 +1,1 @@
 # sedemac-iot
-Internship
